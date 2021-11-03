@@ -40,7 +40,7 @@ For the sake of demonstration each Node requests for entering the Critical Secti
 
 ## Running the Project
 
-* Unzip the project 
+* Unzip the project or clone project from `git@github.com:curiouslad/Ricart-Agrawala-Algorithm.git`
 
 * Open terminal and enter project directory using `cd` command
 
